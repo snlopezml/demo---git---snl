@@ -13,12 +13,9 @@ Hola, soy Edwin Rivera y Edite este archivo. Sigo agregando informacion en este 
 
 
 
-Buenas tardes, soy Jennifer Castro de igual manera estoy actualizando el repositorio para que se logré visualizar el trabajo que se realizó al clonar el repositorio y ser agregados como colaboradores, con esto dejo constancia de mi trabajo.
+Buenas tardes, soy Jennifer Castro de igual manera estoy actualizando el repositorio para que se logré visualizar el trabajo que se realizó al clonar el repositorio y ser agregados como colaboradores, con esto dejo constancia de mi trabajo. Editando Documento para tener evidencia del caso y uso del repositorio. 
 
 
 
-
-Buenas tardes, soy Jennifer Castro de igual manera estoy actualizando el repositorio para que se logre visualizar el trabajo que se realizo al clonar el repositorio y ser agregados como colaboradores, con esto dejo constancia de mi trabajo.
-Editando Documento para tener evidencia del caso y uso del repositorio. 
 
 
