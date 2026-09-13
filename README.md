@@ -10,5 +10,9 @@ Sigo agregando información en este repositorio, para que se visualice mi trabaj
 
 
 
-Buenas tardes, soy Jennifer Castro de igual manera estoy actualizando el repositorio para que se logré visualizar el trabajo que se realizó al clonar el repositorio y ser agregados como colaboradores, con esto dejo constancia de mi trabajo. 
+Buenas tardes, soy Jennifer Castro de igual manera estoy actualizando el repositorio para que se logré visualizar el trabajo que se realizó al clonar el repositorio y ser agregados como colaboradores, con esto dejo constancia de mi trabajo.
+
+
+
+Editando Documento para tener evidencia del caso y uso del repositorio. 
 
