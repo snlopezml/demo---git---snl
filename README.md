@@ -1,1 +1,1 @@
-"# Clase Programaci¢n 3 - Creaci¢n de Repositorio Localmente" 
+## Clase Progra 3 - Creando un Repositorio Localmente" 
